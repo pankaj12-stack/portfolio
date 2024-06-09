@@ -180,20 +180,6 @@ export const workExperience = [
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
-  {
-    id: 3,
-    title: "Enter Title Here",
-    desc: "Enter Desc Here",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
-  },
-  {
-    id: 4,
-    title: "Enter Title Here",
-    desc: "Enter Desc Here",
-    className: "md:col-span-2",
-    thumbnail: "/exp4.svg",
-  },
 ];
 
 export const socialMedia = [
